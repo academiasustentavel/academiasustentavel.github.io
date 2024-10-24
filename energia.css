@@ -1,0 +1,18 @@
+body {
+}
+body header{
+
+}
+
+body header nav {
+    text-align:center;
+    margin: 30px 0 30px 0;
+}
+
+body main h1 {
+    text-align: center;
+    margin: 0 0 -20px 0;
+}
+body main h2 {
+    text-align: center;
+}
