@@ -1,0 +1,21 @@
+body {
+}
+body header h1 {
+    text-align: center;
+    margin: 150px 0 0 0;
+}
+body header .academiasustentavel {
+    text-align: center;
+    margin: 100px 0 0 0 ;
+    border: 10px solid rgb(0, 0, 0);
+    padding: 10px 0 10px 0 ;
+    border-radius: 30px;
+}
+body header .energia {
+    text-align: center;
+    margin: 25px 0 0 0 ;
+    border: 10px solid rgb(0, 0, 0);
+    padding: 10px 0 10px 0 ;
+    border-radius: 30px;
+    
+}
